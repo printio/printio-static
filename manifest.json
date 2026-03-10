@@ -1,0 +1,78 @@
+{
+  "name": "Printio",
+  "short_name": "Printio",
+  "start_url": "/?utm_source=pwa",
+  "icons": [
+  
+    {
+      "src": "/assets/pwa/printio-36x36-924c1288a0f66bddbaf2ac70e6ccfda45fd5f18dc148d16d2f7a2130823831fd.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-48x48-5e36974e1375e050e0b9d5ccaf112fd0cb6aee6d05d0a12f0aabc2b571e10369.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-60x60-67cf34f2c723dd90f145ab8acbe4a5f845c31600419d73f08f60249580657def.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-72x72-fdd380b4083522312707dd232703b59d12ff17223e384d337f4914dada88774c.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-76x76-8922b80f3b5587410e880b33c8a400a769034febce259f8768a52793f31f782d.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-96x96-3ed6eca1756b2efc3c6162eec83da3b6f995006a0233497f9dfcd7cc57e3a010.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-120x120-cbabf7c29d4fa52f20fd38432e6c9c94f2819e4d6d00d4c8954e3bd1f89fac11.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-152x152-c2a172af56d67b23acdfc756cc35b01b7a0988bb70c4c79c7da7507bc36bea2e.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-180x180-483fae7d667418ebc537404eee110ab1d7e15e20a8dfe3357cdeb0cf1cc59fa1.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-192x192-680fbc779957669eee4cecbc97d85bb4900982a3817517cd00d92bc642a4c07d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "/assets/pwa/printio-512x512-4b097807f1e5bd37fab0caef174a117837db161e588a5dfac6cdce352d97e270.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
